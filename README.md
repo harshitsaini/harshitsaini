@@ -1,5 +1,5 @@
 ### Hi there, I'm Harshit 👋
-I am a computer scientist and an software engineer who loves to design data driven solutions and develop high performance software.
+I am a computer scientist and a software engineer who loves to design data driven solutions and develop high performance software.
 
 <!--
 **harshitsaini/harshitsaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
