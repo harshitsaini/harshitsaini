@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-<details>
-<summary><h3>Extended Bio</h3></summary>
-    I started my programming journey in 2008 using QBasic and Logo. Following years of school days I wrote small software programs in C and html to develop patterns, calculators and web pages. From 2010 till 2016, I developed multiple software applications using Netbeans IDE, Java, Javascript, HTML, C/C++. In year 2014 I develped interest in applied mathematics and advanced statistics and started to use C/C++ and python to develop solutions related to Approximation algorithms and Aritificial intelligence. This led me to pursue full time jobs as a Software Developer Engineer with Machine learning specialization. Since 2016 I have worked intensively in field of machine learnining egnineering and AI research.
+<h3>Extended Bio</h3>
+I started my programming journey in 2008 using QBasic and Logo. Following years of school days I wrote small software programs in C and html to develop patterns, calculators and web pages. From 2010 till 2016, I developed multiple software applications using Netbeans IDE, Java, Javascript, HTML, C/C++. In year 2014 I develped interest in applied mathematics and advanced statistics and started to use C/C++ and python to develop solutions related to Approximation algorithms and Aritificial intelligence. This led me to pursue full time jobs as a Software Developer Engineer with Machine learning specialization. Since 2016 I have worked intensively in field of machine learnining egnineering and AI research.
 <br/><br/>
 Though my primary focus has been on tech stacks related to backend engineering, I have assumed multiple roles and worked in multiple domains including Machine Learning, Data Engineering, DevOps and Front-end developement. These days my focus areas include designing high performance apps and latency optimization. I love to dissect and analyze internals of software components and carve out ways to improve latency and usability. In future I plan to devote my focus to analyzing internals of node.js, Python, database engines and linux kernel performance tuning.
 <br/><br/>
